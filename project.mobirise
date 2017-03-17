@@ -51,7 +51,7 @@
               "color": "#ffffff",
               "font-family": "'Yanone Kaffeesatz', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
-              "font-size": "14px"
+              "font-size": "15px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -110,7 +110,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": true
@@ -127,13 +127,13 @@
               "linkInNewWindow": false,
               "name": "tools",
               "family": "et-line",
-              "link": "https://mobirise.com",
-              "size": "",
+              "link": "index.html",
+              "size": "20",
               "active": true,
               "newWindow": false
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">J &nbsp;A &nbsp;N &nbsp;I &nbsp;S &nbsp; &nbsp; O &nbsp;L &nbsp;I &nbsp;V &nbsp;E &nbsp;I &nbsp;R &nbsp;A &nbsp; | &nbsp; a r q u i t e t a &nbsp; e &nbsp; u r b a n i s t a</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">J A N I S &nbsp; O L I V E I R A &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;a r q u i t e t a &nbsp; e &nbsp; u r b a n i s t a</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"curriculo.html\" aria-expanded=\"false\">C &nbsp;U &nbsp;R &nbsp;R &nbsp;Í &nbsp;C &nbsp;U &nbsp;L &nbsp;O</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">P &nbsp;O &nbsp;R &nbsp;T &nbsp;F &nbsp;Ó &nbsp;L &nbsp;I &nbsp;O &nbsp; &nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edificioluz.html\">E D I F Í C I O &nbsp; H Í B R I D O &nbsp; L U Z</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
@@ -145,17 +145,22 @@
             ".mbr-section-title": {
               "font-family": "'Yanone Kaffeesatz', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
-              "font-size": "30px"
+              "font-size": "30px",
+              "text-align": "right"
             },
             ".mbr-section-text": {
-              "font-size": "18px",
+              "font-size": "20px",
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "text-align": "center"
+            },
+            ".mbr-section-title P": {
+              "font-size": "30px"
             }
           },
           "_anchor": "header2-2",
           "_params": {
-            "imageSize": "20",
+            "imageSize": "25",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1500.jpg",
@@ -169,7 +174,7 @@
             "overlayOpacity": "0.7",
             "overlayColor": "#404040",
             "inverse": false,
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "showArrow": false
@@ -196,8 +201,8 @@
               "size": 250
             }
           },
-          "title": "J &nbsp;A &nbsp;N &nbsp;I &nbsp;S &nbsp; &nbsp;P &nbsp;O &nbsp;N &nbsp;T &nbsp;E &nbsp;S &nbsp; &nbsp;D &nbsp;E &nbsp; &nbsp;O &nbsp;L &nbsp;I &nbsp;V &nbsp;E &nbsp;I &nbsp;R &nbsp;A",
-          "text": "Recém-formada no curso de Arquitetura e Urbanismo&nbsp;da Universidade <br>Presbiteriana Mackenzie. Está em busca de oportunidade na área&nbsp;<br>a fim de&nbsp;complementar sua vida profissional gradativamente.",
+          "title": "<p>J &nbsp;A &nbsp;N &nbsp;I &nbsp;S &nbsp; &nbsp; P. &nbsp; &nbsp;D &nbsp;E &nbsp; &nbsp;O &nbsp;L &nbsp;I &nbsp;V &nbsp;E &nbsp;I &nbsp;R &nbsp;A</p>",
+          "text": "<i><span style=\"font-size: 18px; line-height: 1.5;\">Janis Pontes de Oliveira é recém-formada no curso de Arquitetura e Urbanismo</span><br><span style=\"font-size: 18px; line-height: 1.5;\">da Universidade&nbsp;</span>Presbiteriana Mackenzie. Está em busca de oportunidade <br>na área&nbsp;a fim de adquirir conhecimento complementar para a vida profissional.</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -241,7 +246,7 @@
               "color": "#ffffff",
               "font-family": "'Yanone Kaffeesatz', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
-              "font-size": "14px"
+              "font-size": "15px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -300,7 +305,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": true
@@ -317,12 +322,13 @@
               "linkInNewWindow": false,
               "name": "tools",
               "family": "et-line",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "active": true
+              "link": "index.html",
+              "size": "20",
+              "active": true,
+              "newWindow": false
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">J &nbsp;A &nbsp;N &nbsp;I &nbsp;S &nbsp; &nbsp; O &nbsp;L &nbsp;I &nbsp;V &nbsp;E &nbsp;I &nbsp;R &nbsp;A &nbsp; | &nbsp; a r q u i t e t a &nbsp; e &nbsp; u r b a n i s t a</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">J A N I S &nbsp; O L I V E I R A &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;a r q u i t e t a &nbsp; e &nbsp; u r b a n i s t a</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"curriculo.html\" aria-expanded=\"false\">C &nbsp;U &nbsp;R &nbsp;R &nbsp;Í &nbsp;C &nbsp;U &nbsp;L &nbsp;O</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">P &nbsp;O &nbsp;R &nbsp;T &nbsp;F &nbsp;Ó &nbsp;L &nbsp;I &nbsp;O &nbsp; &nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edificioluz.html\">E D I F Í C I O &nbsp; H Í B R I D O &nbsp; L U Z</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
@@ -418,7 +424,7 @@
               "color": "#ffffff",
               "font-family": "'Yanone Kaffeesatz', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
-              "font-size": "14px"
+              "font-size": "15px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -477,7 +483,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": true
@@ -494,12 +500,13 @@
               "linkInNewWindow": false,
               "name": "tools",
               "family": "et-line",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "active": true
+              "link": "index.html",
+              "size": "20",
+              "active": true,
+              "newWindow": false
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">J &nbsp;A &nbsp;N &nbsp;I &nbsp;S &nbsp; &nbsp; O &nbsp;L &nbsp;I &nbsp;V &nbsp;E &nbsp;I &nbsp;R &nbsp;A &nbsp; | &nbsp; a r q u i t e t a &nbsp; e &nbsp; u r b a n i s t a</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">J A N I S &nbsp; O L I V E I R A &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;a r q u i t e t a &nbsp; e &nbsp; u r b a n i s t a</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"curriculo.html\" aria-expanded=\"false\">C &nbsp;U &nbsp;R &nbsp;R &nbsp;Í &nbsp;C &nbsp;U &nbsp;L &nbsp;O</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">P &nbsp;O &nbsp;R &nbsp;T &nbsp;F &nbsp;Ó &nbsp;L &nbsp;I &nbsp;O &nbsp; &nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edificioluz.html\">E D I F Í C I O &nbsp; H Í B R I D O &nbsp; L U Z</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
@@ -550,7 +557,7 @@
             "showButtons": false
           },
           "title": "<span style=\"letter-spacing: -2px; line-height: 1.1;\">E &nbsp;D &nbsp;I &nbsp;F &nbsp;Í &nbsp;C &nbsp;I &nbsp;O &nbsp; &nbsp;H &nbsp;Í &nbsp;B &nbsp;R &nbsp;I &nbsp;D &nbsp;O &nbsp; &nbsp;L &nbsp;U &nbsp;Z</span><br>",
-          "text": "<span style=\"font-size: 18px; line-height: 1.5;\">O edifício abriga três usos principais: comercial, corporativo e residencial. Optou-se pelo uso comercial nos dois primeiros pavimentos a fim de dinamizar o espaço urbano no bairro da Luz (São Paulo), enquanto que nos andares superiores foram posicionados respectivamente os usos corporativo e residencial – pois, trata-se de ocupações com acesso mais restrito. Além dos usos já citados, vale ressaltar a presença de um cinema no primeiro pavimento, juntamente a uma praça de alimentação e um auditório para palestras e demais eventos administrados pelo complexo corporativo. A implantação do térreo foi desenhada de modo a incentivar a passagem do pedestre por dentro da quadra, como se esta fosse uma espécie de atalho, trazendo novamente o movimento populacional que esta região da Luz deixou de possuir.</span><br>",
+          "text": "<span style=\"font-size: 18px; line-height: 1.5; font-style: normal;\">O edifício abriga três usos principais: comercial, corporativo e residencial. Optou-se pelo uso comercial nos dois primeiros pavimentos a fim de dinamizar o espaço urbano no bairro da Luz (São Paulo), enquanto que nos andares superiores foram posicionados respectivamente os usos corporativo e residencial – pois, trata-se de ocupações com acesso mais restrito. Além dos usos já citados, vale ressaltar a presença de um cinema no primeiro pavimento, juntamente a uma praça de alimentação e um auditório para palestras e demais eventos administrados pelo complexo corporativo. A implantação do térreo foi desenhada de modo a incentivar a passagem do pedestre por dentro da quadra, como se esta fosse uma espécie de atalho, trazendo novamente o movimento populacional que esta região da Luz deixou de possuir.</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
         },
         {
