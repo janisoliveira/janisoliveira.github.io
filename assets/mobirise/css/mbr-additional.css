@@ -422,7 +422,7 @@ h6,
 #ext_menu-1 .navbar-caption {
   color: #ffffff;
   font-family: 'Yanone Kaffeesatz', sans-serif;
-  font-size: 15px;
+  font-size: 14px;
 }
 #ext_menu-1 .navbar-toggler {
   color: #ffffff;
@@ -437,11 +437,11 @@ h6,
   font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 #ext_menu-1 .link {
-  font-size: 0.8rem;
+  font-size: 0.7rem;
 }
 #ext_menu-1 .dropdown-item,
 #ext_menu-1 .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.758rem;
 }
 #ext_menu-1 .link:hover,
 #ext_menu-1 .dropdown-item:hover,
@@ -496,6 +496,7 @@ h6,
 #ext_menu-3 .navbar-caption {
   color: #ffffff;
   font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 14px;
 }
 #ext_menu-3 .navbar-toggler {
   color: #ffffff;
@@ -510,11 +511,11 @@ h6,
   font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 #ext_menu-3 .link {
-  font-size: 0.8rem;
+  font-size: 0.7rem;
 }
 #ext_menu-3 .dropdown-item,
 #ext_menu-3 .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.758rem;
 }
 #ext_menu-3 .link:hover,
 #ext_menu-3 .dropdown-item:hover,
@@ -563,6 +564,7 @@ h6,
 #ext_menu-5 .navbar-caption {
   color: #ffffff;
   font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 14px;
 }
 #ext_menu-5 .navbar-toggler {
   color: #ffffff;
@@ -577,11 +579,11 @@ h6,
   font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 #ext_menu-5 .link {
-  font-size: 0.8rem;
+  font-size: 0.7rem;
 }
 #ext_menu-5 .dropdown-item,
 #ext_menu-5 .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.758rem;
 }
 #ext_menu-5 .link:hover,
 #ext_menu-5 .dropdown-item:hover,
@@ -636,4 +638,5 @@ h6,
 }
 #header1-6 .mbr-section-lead SPAN {
   color: #ffffff;
+  font-size: 16px;
 }

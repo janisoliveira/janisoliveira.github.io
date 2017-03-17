@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Janis Oliveira Arquiteta e Urbanista",
-    "currentPage": "edificioluz.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -51,7 +51,7 @@
               "color": "#ffffff",
               "font-family": "'Yanone Kaffeesatz', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
-              "font-size": "15px"
+              "font-size": "14px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -65,10 +65,10 @@
               "font-family": "'Yanone Kaffeesatz', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -100,7 +100,7 @@
           "_anchor": "ext_menu-1",
           "_params": {
             "bgColor": "#404040",
-            "fontSize": "0.8",
+            "fontSize": "0.7",
             "fontName": {
               "name": "Yanone Kaffeesatz",
               "url": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
@@ -240,7 +240,8 @@
             ".navbar-caption": {
               "color": "#ffffff",
               "font-family": "'Yanone Kaffeesatz', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-size": "14px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -254,10 +255,10 @@
               "font-family": "'Yanone Kaffeesatz', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -289,7 +290,7 @@
           "_anchor": "ext_menu-3",
           "_params": {
             "bgColor": "#404040",
-            "fontSize": "0.8",
+            "fontSize": "0.7",
             "fontName": {
               "name": "Yanone Kaffeesatz",
               "url": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
@@ -416,7 +417,8 @@
             ".navbar-caption": {
               "color": "#ffffff",
               "font-family": "'Yanone Kaffeesatz', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-size": "14px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -430,10 +432,10 @@
               "font-family": "'Yanone Kaffeesatz', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -465,7 +467,7 @@
           "_anchor": "ext_menu-5",
           "_params": {
             "bgColor": "#404040",
-            "fontSize": "0.8",
+            "fontSize": "0.7",
             "fontName": {
               "name": "Yanone Kaffeesatz",
               "url": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
@@ -523,7 +525,8 @@
               "color": "#ffffff"
             },
             ".mbr-section-lead SPAN": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "16px"
             }
           },
           "_anchor": "header1-6",
