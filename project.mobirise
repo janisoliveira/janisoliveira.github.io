@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Janis Oliveira Arquiteta e Urbanista",
-    "currentPage": "index.html",
+    "currentPage": "edificioluz.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -102,7 +102,7 @@
           "_anchor": "ext_menu-1",
           "_params": {
             "bgColor": "#404040",
-            "fontSize": "0.7",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Yanone Kaffeesatz",
               "url": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
@@ -136,7 +136,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">J A N I S &nbsp; O L I V E I R A &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp;a r q u i t e t a &nbsp; e &nbsp; u r b a n i s t a</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"curriculo.html\" aria-expanded=\"false\">C &nbsp;U &nbsp;R &nbsp;R &nbsp;Í &nbsp;C &nbsp;U &nbsp;L &nbsp;O</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">P &nbsp;O &nbsp;R &nbsp;T &nbsp;F &nbsp;Ó &nbsp;L &nbsp;I &nbsp;O &nbsp; &nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edificioluz.html\">E D I F Í C I O &nbsp; H Í B R I D O &nbsp; L U Z</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"curriculo.html\" aria-expanded=\"false\">C &nbsp;U &nbsp;R &nbsp;R &nbsp;Í &nbsp;C &nbsp;U &nbsp;L &nbsp;O</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">P &nbsp;O &nbsp;R &nbsp;T &nbsp;F &nbsp;Ó &nbsp;L &nbsp;I &nbsp;O &nbsp; &nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edificioluz.html\">E D I F Í C I O &nbsp; H Í B R I D O &nbsp; L U Z</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -297,7 +297,7 @@
           "_anchor": "ext_menu-3",
           "_params": {
             "bgColor": "#404040",
-            "fontSize": "0.7",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Yanone Kaffeesatz",
               "url": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
@@ -440,10 +440,10 @@
               "font-family": "'Yanone Kaffeesatz', sans-serif"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -475,7 +475,7 @@
           "_anchor": "ext_menu-5",
           "_params": {
             "bgColor": "#404040",
-            "fontSize": "0.7",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Yanone Kaffeesatz",
               "url": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
@@ -509,7 +509,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">J A N I S &nbsp; O L I V E I R A &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp;a r q u i t e t a &nbsp; e &nbsp; u r b a n i s t a</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"curriculo.html\" aria-expanded=\"false\">C &nbsp;U &nbsp;R &nbsp;R &nbsp;Í &nbsp;C &nbsp;U &nbsp;L &nbsp;O</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">P &nbsp;O &nbsp;R &nbsp;T &nbsp;F &nbsp;Ó &nbsp;L &nbsp;I &nbsp;O &nbsp; &nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edificioluz.html\">E D I F Í C I O &nbsp; H Í B R I D O &nbsp; L U Z</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"curriculo.html\" aria-expanded=\"false\">C &nbsp;U &nbsp;R &nbsp;R &nbsp;Í &nbsp;C &nbsp;U &nbsp;L &nbsp;O</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">P &nbsp;O &nbsp;R &nbsp;T &nbsp;F &nbsp;Ó &nbsp;L &nbsp;I &nbsp;O &nbsp; &nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edificioluz.html\">E D I F Í C I O &nbsp; H Í B R I D O &nbsp; L U Z</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [

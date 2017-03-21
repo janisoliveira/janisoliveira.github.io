@@ -584,11 +584,11 @@ h6,
   font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 #ext_menu-5 .link {
-  font-size: 0.7rem;
+  font-size: 0.75rem;
 }
 #ext_menu-5 .dropdown-item,
 #ext_menu-5 .nav-dropdown-sm .link {
-  font-size: 0.758rem;
+  font-size: 0.812rem;
 }
 #ext_menu-5 .link:hover,
 #ext_menu-5 .dropdown-item:hover,
