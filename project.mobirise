@@ -590,7 +590,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/proj-6-render-2-small-800x450.jpg",
                 "image": "@PROJECT_PATH@/assets/images/proj-6-render-2-small.jpg",
                 "caption": "Perspectiva 2",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -650,80 +650,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/proj-6-cortes-small-2000x1125-800x450.jpg",
                 "image": "@PROJECT_PATH@/assets/images/proj-6-cortes-small-2000x1125.jpg",
                 "caption": "Cortes",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/proj-tfg-render-04-small-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/proj-tfg-render-04-small.jpg",
-                "caption": "Perspectiva 4",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/proj-tfg-render-01-small-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/proj-tfg-render-01-small.jpg",
-                "caption": "Perspectiva 1",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/proj-tfg-render-03-small-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/proj-tfg-render-03-small.jpg",
-                "caption": "Perspectiva 3",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/proj-6-cortes-small-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/proj-6-cortes-small-2000x1125.jpg",
-                "caption": "Segundo Pavimento",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/proj-6-cortes-small-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/proj-6-cortes-small-2000x1125.jpg",
-                "caption": "Segundo Pavimento",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/proj-6-cortes-small-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/proj-6-cortes-small-2000x1125.jpg",
-                "caption": "Segundo Pavimento",
-                "active": false
-              },
-              {
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/proj-6-cortes-small-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/proj-6-cortes-small-2000x1125.jpg",
-                "caption": "Segundo Pavimento",
-                "active": false
+                "active": true
               }
             ],
             "spacing": "1",
