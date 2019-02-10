@@ -23,11 +23,12 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 19,
-    "versionPublish": "3.12.1",
+    "versionPublish": "4.9.2",
     "favicon": "@PROJECT_PATH@/assets/images/cone-pgina-128x128-1.png",
     "noImageResize": "true",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "siteFonts": []
   },
   "pages": {
     "index.html": {
@@ -101,6 +102,12 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#404040",
             "fontSize": "0.75",
             "fontName": {
@@ -109,13 +116,7 @@
               "css": "'Yanone Kaffeesatz', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -162,24 +163,24 @@
           },
           "_anchor": "header2-2",
           "_params": {
-            "imageSize": "25",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1500.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.7",
-            "overlayColor": "#404040",
-            "inverse": false,
             "showTitle": false,
             "showText": true,
             "showButtons": false,
-            "showArrow": false
+            "inverse": false,
+            "showArrow": false,
+            "imageSize": "25",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#404040",
+            "overlayOpacity": "0.7"
           },
           "media": {
             "image": {
@@ -217,13 +218,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#404040",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#404040",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "(c) 2017-2018 Janis Oliveira &amp; Mobirise."
         }
@@ -296,6 +297,12 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-3",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#404040",
             "fontSize": "0.75",
             "fontName": {
@@ -304,13 +311,7 @@
               "css": "'Yanone Kaffeesatz', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -340,34 +341,33 @@
           "_name": "header2",
           "_anchor": "header2-4",
           "_params": {
-            "imageSize": "55",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1500.jpg",
-            "bgColor": "#404040",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.7",
-            "overlayColor": "#404040",
-            "inverse": false,
             "showTitle": false,
             "showText": false,
             "showButtons": false,
-            "showArrow": false
+            "inverse": false,
+            "showArrow": false,
+            "imageSize": "55",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#404040",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#404040",
+            "overlayOpacity": "0.7"
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/currculo-janis-2018a.jpg",
+              "src": "@PROJECT_PATH@/assets/images/currculo-janis-2019.jpg",
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -395,13 +395,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#404040",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#404040",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "(c) 2017-2018 Janis Oliveira &amp; Mobirise."
         }
@@ -474,6 +474,12 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-5",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#404040",
             "fontSize": "0.75",
             "fontName": {
@@ -482,13 +488,7 @@
               "css": "'Yanone Kaffeesatz', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -540,23 +540,23 @@
           },
           "_anchor": "header1-6",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
             "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/proj-6-render-1-pb-2000x1713.jpg",
-            "bgColor": "#f36523",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#f36523",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
             "overlayColor": "#404040",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": "0.8"
           },
           "title": "<span style=\"letter-spacing: -2px; line-height: 1.1;\">E &nbsp; D &nbsp; I &nbsp; F &nbsp; Í &nbsp; C &nbsp; I &nbsp; O &nbsp; &nbsp; &nbsp;H &nbsp; Í &nbsp; B &nbsp; R &nbsp; I &nbsp; D &nbsp; O &nbsp; &nbsp; &nbsp;L &nbsp; U &nbsp; Z</span><br>",
           "text": "<span style=\"font-style: normal;\">O&nbsp;Edifício Híbrido Luz foi projetado para ocupar um terreno triangular no bairro da Luz, em São Paulo. O terreno em questão é rodeado por prédios subutilizados e residenciais que, na maioria das vezes, abrigam cortiços ou outras atividades irregulares. Diante desse contexto tão característico, o objetivo era conceber um projeto que viesse com a proposta de revitalizar toda a região, com usos compatíveis para o entorno e que também garantissem a constante movimentação de pessoas pela região. O edifício, então, abriga três usos principais: comercial, corporativo e residencial. Optou-se pelo uso comercial nos dois primeiros pavimentos a fim de dinamizar o espaço urbano, enquanto que nos andares superiores foram posicionados respectivamente os usos corporativo e residencial – pois, trata-se de ocupações com acesso mais restrito. Além dos usos já citados, vale ressaltar a presença de um cinema no primeiro pavimento, juntamente a uma praça de alimentação e um auditório para palestras e demais eventos no complexo corporativo. A implantação do térreo foi desenhada de modo a incentivar a passagem do pedestre por dentro da quadra, no intuito de trazer novamente o movimento populacional que esta região da Luz deixou de possuir.&nbsp;</span><br>",
@@ -569,8 +569,15 @@
           ],
           "_name": "gallery3",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
             "paddingTop": "3",
             "paddingBottom": "2",
+            "filterBgColor": true,
+            "bgColor": "#404040",
+            "showText": true,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -652,14 +659,7 @@
                 "caption": "Cortes",
                 "active": true
               }
-            ],
-            "spacing": "1",
-            "showText": true,
-            "filter": false,
-            "bgColor": "#404040",
-            "filterBgColor": true,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery3-9",
           "articleLayout": false,
@@ -675,13 +675,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#404040",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#404040",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "(c) 2017-2018 Janis Oliveira &amp; Mobirise."
         }
@@ -754,6 +754,12 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-f",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#404040",
             "fontSize": "0.75",
             "fontName": {
@@ -762,13 +768,7 @@
               "css": "'Yanone Kaffeesatz', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -820,23 +820,23 @@
           },
           "_anchor": "header1-g",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
             "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/proj-tfg-render-04-pb.jpg",
-            "bgColor": "#f36523",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#f36523",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
             "overlayColor": "#404040",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": "0.8"
           },
           "title": "<span style=\"letter-spacing: -2px; line-height: 1.1;\">C &nbsp; E &nbsp; N &nbsp; T &nbsp; R &nbsp; O &nbsp; &nbsp; &nbsp;C &nbsp; O &nbsp; M &nbsp; U &nbsp; N &nbsp; I &nbsp; T &nbsp; Á &nbsp; R &nbsp; I &nbsp; O &nbsp; &nbsp; &nbsp;B &nbsp; O &nbsp; A &nbsp; &nbsp; &nbsp;E &nbsp; S &nbsp; P &nbsp; E &nbsp; R &nbsp; A &nbsp; N &nbsp; Ç &nbsp; A</span><br>",
           "text": "<span style=\"font-style: normal;\">O Centro Comunitário Boa Esperança, assim como a Vila Boa Esperança e a Praça Francisco Daniel Lopes foram projetados a partir de uma pesquisa feita na zona leste da cidade de São Paulo, mais precisamente nos bairros Cidade Líder, Artur Alvim e Itaquera. A pesquisa intitulada Segregação Socioespacial e a Consolidação da Periferia Leste Paulistana (que pode ser conferida na íntegra <a href=\"https://issuu.com/janis_oliveira/docs/segrega____o_socioespacial_e_a_cons\" target=\"_blank\">clicando</a></span><span style=\"font-style: normal;\"><a href=\"https://issuu.com/janis_oliveira/docs/segrega____o_socioespacial_e_a_cons\" target=\"_blank\"> aqui</a></span><span style=\"font-style: normal;\">) buscava não apenas estudar o processo relativo à segregação mas, também propor soluções arquitetônicas que visassem um melhor aproveitamento do solo urbano e a qualidade de vida da população residente da zona leste. O terreno escolhido para intervenção é adjacente à Avenida Líder e tem um potencial muito grande para transformação. Ao analisar a fundo as necessidades locais, concluiu-se que o mais apropriado era conceber algo que se aproximasse diretamente da população, sendo assim escolhido como projeto um centro comunitário, a readequação e novo desenho de uma praça preexistente e a idealização de uma nova vila que seria construída em etapas onde hoje está localizada a ocupação irregular conhecida como “Boa Esperança”. Embora os três projetos tenham sido desenhados, apenas o centro comunitário e a Praça Francisco Daniel Lopes foram detalhados, sendo assim a Vila Boa Esperança ainda passível de alterações. O novo desenho da praça foi refeito para que atraísse as pessoas para dentro do centro comunitário, e este último abrigaria diversos usos atrativos para os residentes locais, tais como: comercial e prestação de serviços, educacional (biblioteca e cursos diversos) e lazer (quadras poliesportivas, salão de jogos e auditório para sessões de cinema e pequenas peças teatrais). Todo programa e a setorização do mesmo, juntamente ao novo desenho urbano de praça e vila possuem o papel de tornar a área mais dinâmica, transformando-a num exemplo a ser seguido em outros pontos da periferia leste paulistana.&nbsp;</span><br>",
@@ -849,8 +849,15 @@
           ],
           "_name": "gallery3",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
             "paddingTop": "3",
             "paddingBottom": "2",
+            "filterBgColor": true,
+            "bgColor": "#404040",
+            "showText": true,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -987,14 +994,7 @@
                 "caption": "Elevação 3",
                 "active": true
               }
-            ],
-            "spacing": "1",
-            "showText": true,
-            "filter": false,
-            "bgColor": "#404040",
-            "filterBgColor": true,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery3-h",
           "articleLayout": false,
@@ -1010,13 +1010,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#404040",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#404040",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "(c) 2017-2018 Janis Oliveira &amp; Mobirise."
         }
