@@ -178,7 +178,7 @@
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_anchor": "header2-2",
           "_params": {
-            "imageSize": "45",
+            "imageSize": "41",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2.jpg",
