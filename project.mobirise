@@ -1195,7 +1195,7 @@
             ".mbr-section-title": {
               "font-family": "'Yanone Kaffeesatz', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
-              "font-size": "48px",
+              "font-size": "22px",
               "text-align": "left"
             },
             ".mbr-section-title SPAN": {
