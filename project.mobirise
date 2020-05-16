@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Janis Oliveira Arquiteta e Urbanista",
-    "currentPage": "curriculo.html",
+    "currentPage": "boxvillageboxhouse.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,8 +22,8 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 19,
-    "versionPublish": "4.9.2",
+    "uniqCompNum": 25,
+    "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/cone-pgina-128x128-1.png",
     "noImageResize": "true",
     "path": "@PROJECT_PATH@",
@@ -54,7 +54,7 @@
               "color": "#ffffff",
               "font-family": "'Yanone Kaffeesatz', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
-              "font-size": "15px"
+              "font-size": "12px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -68,10 +68,10 @@
               "font-family": "'Yanone Kaffeesatz', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -97,26 +97,31 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#f36523!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
             }
           },
           "_name": "ext.menu",
           "_anchor": "ext_menu-1",
           "_params": {
+            "bgColor": "#404040",
+            "fontSize": "0.7",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
             "logo": true,
             "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
             "collapsed": true,
-            "transparent": false,
-            "bgColor": "#404040",
-            "fontSize": "0.75",
-            "fontName": {
-              "name": "Yanone Kaffeesatz",
-              "url": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
-              "css": "'Yanone Kaffeesatz', sans-serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -136,8 +141,8 @@
               "newWindow": false
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">J A N I S &nbsp; O L I V E I R A &nbsp; &nbsp; | &nbsp; &nbsp; a r q u i t e t a &nbsp; e &nbsp; u r b a n i s t a</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"curriculo.html\" aria-expanded=\"false\">C &nbsp;U &nbsp;R &nbsp;R &nbsp;Í &nbsp;C &nbsp;U &nbsp;L &nbsp;O</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">P &nbsp;O &nbsp;R &nbsp;T &nbsp;F &nbsp;Ó &nbsp;L &nbsp;I &nbsp;O &nbsp; &nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"centroboaesperanca.html\">C E N T R O &nbsp; C O M U N I T Á R I O &nbsp; B O A &nbsp; E S P E R A N Ç A</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edificioluz.html\">E D I F Í C I O &nbsp; H Í B R I D O &nbsp; L U Z</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">J A N I S &nbsp; O L I V E I R A &nbsp; | &nbsp; a r q u i t e t a &nbsp; e &nbsp; u r b a n i s t a</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"curriculo.html\" aria-expanded=\"false\">C &nbsp;U &nbsp;R &nbsp;R &nbsp;Í &nbsp;C &nbsp;U &nbsp;L &nbsp;O</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">P &nbsp;O &nbsp;R &nbsp;T &nbsp;F &nbsp;Ó &nbsp;L &nbsp;I &nbsp;O &nbsp; &nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"centroboaesperanca.html\">C E N T R O &nbsp; C O M U N I T Á R I O &nbsp; B O A &nbsp; E S P E R A N Ç A</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edificioluz.html\">E D I F Í C I O &nbsp; H Í B R I D O &nbsp; L U Z</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"boxvillageboxhouse.html\">B O X &nbsp; V I L L A G E &nbsp; &amp; &nbsp; B O X &nbsp; H O U S E</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -159,34 +164,44 @@
             },
             ".mbr-section-title P": {
               "font-size": "30px"
+            },
+            ".mbr-section-text SPAN": {
+              "font-size": "16px"
+            },
+            ".mbr-section-text I": {
+              "font-size": "18px",
+              "text-align": "center",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_anchor": "header2-2",
           "_params": {
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "showArrow": false,
-            "imageSize": "25",
+            "imageSize": "45",
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": "0.7",
             "overlayColor": "#404040",
-            "overlayOpacity": "0.7"
+            "inverse": false,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/foto-portflio-1400x1400.png",
+              "src": "@PROJECT_PATH@/assets/images/foto-portflio.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -205,7 +220,7 @@
             }
           },
           "title": "<p>J &nbsp;A &nbsp;N &nbsp;I &nbsp;S &nbsp; &nbsp; P. &nbsp; &nbsp;D &nbsp;E &nbsp; &nbsp;O &nbsp;L &nbsp;I &nbsp;V &nbsp;E &nbsp;I &nbsp;R &nbsp;A</p>",
-          "text": "<i><span style=\"font-size: 18px; line-height: 1.5;\">Janis Pontes de Oliveira é recém-formada no curso de Arquitetura e Urbanismo</span><br><span style=\"font-size: 18px; line-height: 1.5;\">da Universidade&nbsp;</span>Presbiteriana Mackenzie. Está em busca de oportunidade <br>na área&nbsp;a fim de adquirir conhecimento complementar para a vida profissional.</i>",
+          "text": "<i><span style=\"font-size: 18px; line-height: 1.5;\">Janis Pontes de Oliveira é recém-formada no curso de Arquitetura e Urbanismo&nbsp;</span><span style=\"font-size: 18px; line-height: 1.5;\">da Universidade&nbsp;</span>Presbiteriana Mackenzie. Está em busca de oportunidade&nbsp;na área&nbsp;a fim de adquirir conhecimento complementar para a vida profissional.</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -218,15 +233,15 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#404040",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
-          "text": "(c) 2017-2018 Janis Oliveira &amp; Mobirise."
+          "text": "(c) 2017-2020 por Janis Oliveira &amp; Mobirise"
         }
       ]
     },
@@ -249,7 +264,7 @@
               "color": "#ffffff",
               "font-family": "'Yanone Kaffeesatz', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
-              "font-size": "15px"
+              "font-size": "12px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -263,10 +278,10 @@
               "font-family": "'Yanone Kaffeesatz', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -292,26 +307,31 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#f36523!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
             }
           },
           "_name": "ext.menu",
           "_anchor": "ext_menu-3",
           "_params": {
+            "bgColor": "#404040",
+            "fontSize": "0.7",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
             "logo": true,
             "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
             "collapsed": true,
-            "transparent": false,
-            "bgColor": "#404040",
-            "fontSize": "0.75",
-            "fontName": {
-              "name": "Yanone Kaffeesatz",
-              "url": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
-              "css": "'Yanone Kaffeesatz', sans-serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -331,43 +351,45 @@
               "newWindow": false
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">J A N I S &nbsp; O L I V E I R A &nbsp; &nbsp; | &nbsp; &nbsp; a r q u i t e t a &nbsp; e &nbsp; u r b a n i s t a</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"curriculo.html\" aria-expanded=\"false\">C &nbsp;U &nbsp;R &nbsp;R &nbsp;Í &nbsp;C &nbsp;U &nbsp;L &nbsp;O</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">P &nbsp;O &nbsp;R &nbsp;T &nbsp;F &nbsp;Ó &nbsp;L &nbsp;I &nbsp;O &nbsp; &nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"centroboaesperanca.html\">C E N T R O &nbsp; C O M U N I T Á R I O &nbsp; B O A &nbsp; E S P E R A N Ç A</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edificioluz.html\">E D I F Í C I O &nbsp; H Í B R I D O &nbsp; L U Z</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">J A N I S &nbsp; O L I V E I R A &nbsp; | &nbsp; a r q u i t e t a &nbsp; e &nbsp; u r b a n i s t a</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"curriculo.html\" aria-expanded=\"false\">C &nbsp;U &nbsp;R &nbsp;R &nbsp;Í &nbsp;C &nbsp;U &nbsp;L &nbsp;O</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">P &nbsp;O &nbsp;R &nbsp;T &nbsp;F &nbsp;Ó &nbsp;L &nbsp;I &nbsp;O &nbsp; &nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"centroboaesperanca.html\">C E N T R O &nbsp; C O M U N I T Á R I O &nbsp; B O A &nbsp; E S P E R A N Ç A</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edificioluz.html\">E D I F Í C I O &nbsp; H Í B R I D O &nbsp; L U Z</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"boxvillageboxhouse.html\">B O X &nbsp; V I L L A G E &nbsp; &amp; &nbsp; B O X &nbsp; H O U S E</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header2",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_anchor": "header2-4",
           "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "showArrow": false,
-            "imageSize": "55",
+            "imageSize": 50,
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#404040",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": "0.7",
             "overlayColor": "#404040",
-            "overlayOpacity": "0.7"
+            "inverse": false,
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/currculo-janis-2019.jpg",
+              "src": "@PROJECT_PATH@/assets/images/currculo-janis.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -395,15 +417,15 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#404040",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
-          "text": "(c) 2017-2018 Janis Oliveira &amp; Mobirise."
+          "text": "(c) 2017-2020 por Janis Oliveira &amp; Mobirise"
         }
       ]
     },
@@ -426,7 +448,7 @@
               "color": "#ffffff",
               "font-family": "'Yanone Kaffeesatz', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
-              "font-size": "15px"
+              "font-size": "12px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -440,10 +462,10 @@
               "font-family": "'Yanone Kaffeesatz', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -469,26 +491,35 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#f36523!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
             }
           },
           "_name": "ext.menu",
           "_anchor": "ext_menu-5",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#404040",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {
               "name": "Yanone Kaffeesatz",
               "url": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
               "css": "'Yanone Kaffeesatz', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -508,8 +539,8 @@
               "newWindow": false
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">J A N I S &nbsp; O L I V E I R A &nbsp; &nbsp; | &nbsp; &nbsp; a r q u i t e t a &nbsp; e &nbsp; u r b a n i s t a</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"curriculo.html\" aria-expanded=\"false\">C &nbsp;U &nbsp;R &nbsp;R &nbsp;Í &nbsp;C &nbsp;U &nbsp;L &nbsp;O</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">P &nbsp;O &nbsp;R &nbsp;T &nbsp;F &nbsp;Ó &nbsp;L &nbsp;I &nbsp;O &nbsp; &nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"centroboaesperanca.html\">C E N T R O &nbsp; C O M U N I T Á R I O &nbsp; B O A &nbsp; E S P E R A N Ç A</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edificioluz.html\">E D I F Í C I O &nbsp; H Í B R I D O &nbsp; L U Z</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">J A N I S &nbsp; O L I V E I R A &nbsp; | &nbsp; a r q u i t e t a &nbsp; e &nbsp; u r b a n i s t a</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"curriculo.html\" aria-expanded=\"false\">C &nbsp;U &nbsp;R &nbsp;R &nbsp;Í &nbsp;C &nbsp;U &nbsp;L &nbsp;O</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">P &nbsp;O &nbsp;R &nbsp;T &nbsp;F &nbsp;Ó &nbsp;L &nbsp;I &nbsp;O &nbsp; &nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"centroboaesperanca.html\">C E N T R O &nbsp; C O M U N I T Á R I O &nbsp; B O A &nbsp; E S P E R A N Ç A</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edificioluz.html\">E D I F Í C I O &nbsp; H Í B R I D O &nbsp; L U Z</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"boxvillageboxhouse.html\">B O X &nbsp; V I L L A G E &nbsp; &amp; &nbsp; B O X &nbsp; H O U S E</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -540,23 +571,23 @@
           },
           "_anchor": "header1-6",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/proj-6-render-1-pb-2000x1713.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/proj-6-render-1-pb-2000x1713.jpg",
             "bgColor": "#f36523",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": "0.8",
             "overlayColor": "#404040",
-            "overlayOpacity": "0.8"
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "title": "<span style=\"letter-spacing: -2px; line-height: 1.1;\">E &nbsp; D &nbsp; I &nbsp; F &nbsp; Í &nbsp; C &nbsp; I &nbsp; O &nbsp; &nbsp; &nbsp;H &nbsp; Í &nbsp; B &nbsp; R &nbsp; I &nbsp; D &nbsp; O &nbsp; &nbsp; &nbsp;L &nbsp; U &nbsp; Z</span><br>",
           "text": "<span style=\"font-style: normal;\">O&nbsp;Edifício Híbrido Luz foi projetado para ocupar um terreno triangular no bairro da Luz, em São Paulo. O terreno em questão é rodeado por prédios subutilizados e residenciais que, na maioria das vezes, abrigam cortiços ou outras atividades irregulares. Diante desse contexto tão característico, o objetivo era conceber um projeto que viesse com a proposta de revitalizar toda a região, com usos compatíveis para o entorno e que também garantissem a constante movimentação de pessoas pela região. O edifício, então, abriga três usos principais: comercial, corporativo e residencial. Optou-se pelo uso comercial nos dois primeiros pavimentos a fim de dinamizar o espaço urbano, enquanto que nos andares superiores foram posicionados respectivamente os usos corporativo e residencial – pois, trata-se de ocupações com acesso mais restrito. Além dos usos já citados, vale ressaltar a presença de um cinema no primeiro pavimento, juntamente a uma praça de alimentação e um auditório para palestras e demais eventos no complexo corporativo. A implantação do térreo foi desenhada de modo a incentivar a passagem do pedestre por dentro da quadra, no intuito de trazer novamente o movimento populacional que esta região da Luz deixou de possuir.&nbsp;</span><br>",
@@ -569,15 +600,8 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "1",
             "paddingTop": "3",
             "paddingBottom": "2",
-            "filterBgColor": true,
-            "bgColor": "#404040",
-            "showText": true,
-            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -616,7 +640,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/proj-6-trreo-small-2000x1125-800x450.jpg",
                 "image": "@PROJECT_PATH@/assets/images/proj-6-trreo-small-2000x1125.jpg",
-                "caption": "Térreo (Comercial)",
+                "caption": "Térreo (comercial)",
                 "active": false
               },
               {
@@ -626,7 +650,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/proj-6-1o-pav-small-2000x1125-800x450.jpg",
                 "image": "@PROJECT_PATH@/assets/images/proj-6-1o-pav-small-2000x1125.jpg",
-                "caption": "Primeiro Pavimento (Comercial)",
+                "caption": "Primeiro pavimento (comercial)",
                 "active": false
               },
               {
@@ -636,7 +660,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/proj-6-3o-pav-small-2000x1125-800x450.jpg",
                 "image": "@PROJECT_PATH@/assets/images/proj-6-3o-pav-small-2000x1125.jpg",
-                "caption": "Terceiro Pavimento (Corporativo)",
+                "caption": "Terceiro pavimento (corporativo)",
                 "active": false
               },
               {
@@ -646,7 +670,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/proj-6-pav-hab-tipo-small-2000x1125-800x450.jpg",
                 "image": "@PROJECT_PATH@/assets/images/proj-6-pav-hab-tipo-small-2000x1125.jpg",
-                "caption": "Pavimento Tipo (Habitacional)",
+                "caption": "Pavimento Tipo (habitacional)",
                 "active": false
               },
               {
@@ -659,7 +683,14 @@
                 "caption": "Cortes",
                 "active": true
               }
-            ]
+            ],
+            "spacing": "1",
+            "showText": true,
+            "filter": false,
+            "bgColor": "#404040",
+            "filterBgColor": true,
+            "fullWidth": false,
+            "showBullets": true
           },
           "_anchor": "gallery3-9",
           "articleLayout": false,
@@ -675,15 +706,15 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#404040",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
-          "text": "(c) 2017-2018 Janis Oliveira &amp; Mobirise."
+          "text": "(c) 2017-2020 por Janis Oliveira &amp; Mobirise"
         }
       ]
     },
@@ -706,7 +737,7 @@
               "color": "#ffffff",
               "font-family": "'Yanone Kaffeesatz', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
-              "font-size": "15px"
+              "font-size": "12px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -720,10 +751,10 @@
               "font-family": "'Yanone Kaffeesatz', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -749,26 +780,35 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#f36523!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
             }
           },
           "_name": "ext.menu",
           "_anchor": "ext_menu-f",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#404040",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {
               "name": "Yanone Kaffeesatz",
               "url": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
               "css": "'Yanone Kaffeesatz', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -788,8 +828,8 @@
               "newWindow": false
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">J A N I S &nbsp; O L I V E I R A &nbsp; &nbsp; | &nbsp; &nbsp; a r q u i t e t a &nbsp; e &nbsp; u r b a n i s t a</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"curriculo.html\" aria-expanded=\"false\">C &nbsp;U &nbsp;R &nbsp;R &nbsp;Í &nbsp;C &nbsp;U &nbsp;L &nbsp;O</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">P &nbsp;O &nbsp;R &nbsp;T &nbsp;F &nbsp;Ó &nbsp;L &nbsp;I &nbsp;O &nbsp; &nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"centroboaesperanca.html\">C E N T R O &nbsp; C O M U N I T Á R I O &nbsp; B O A &nbsp; E S P E R A N Ç A</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edificioluz.html\">E D I F Í C I O &nbsp; H Í B R I D O &nbsp; L U Z</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">J A N I S &nbsp; O L I V E I R A &nbsp; | &nbsp; a r q u i t e t a &nbsp; e &nbsp; u r b a n i s t a</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"curriculo.html\" aria-expanded=\"false\">C &nbsp;U &nbsp;R &nbsp;R &nbsp;Í &nbsp;C &nbsp;U &nbsp;L &nbsp;O</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">P &nbsp;O &nbsp;R &nbsp;T &nbsp;F &nbsp;Ó &nbsp;L &nbsp;I &nbsp;O &nbsp; &nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"centroboaesperanca.html\">C E N T R O &nbsp; C O M U N I T Á R I O &nbsp; B O A &nbsp; E S P E R A N Ç A</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edificioluz.html\">E D I F Í C I O &nbsp; H Í B R I D O &nbsp; L U Z</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"boxvillageboxhouse.html\">B O X &nbsp; V I L L A G E &nbsp; &amp; &nbsp; B O X &nbsp; H O U S E</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -820,27 +860,47 @@
           },
           "_anchor": "header1-g",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/proj-tfg-render-04-pb.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/proj-tfg-render-04-pb.jpg",
             "bgColor": "#f36523",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": "0.8",
             "overlayColor": "#404040",
-            "overlayOpacity": "0.8"
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "title": "<span style=\"letter-spacing: -2px; line-height: 1.1;\">C &nbsp; E &nbsp; N &nbsp; T &nbsp; R &nbsp; O &nbsp; &nbsp; &nbsp;C &nbsp; O &nbsp; M &nbsp; U &nbsp; N &nbsp; I &nbsp; T &nbsp; Á &nbsp; R &nbsp; I &nbsp; O &nbsp; &nbsp; &nbsp;B &nbsp; O &nbsp; A &nbsp; &nbsp; &nbsp;E &nbsp; S &nbsp; P &nbsp; E &nbsp; R &nbsp; A &nbsp; N &nbsp; Ç &nbsp; A</span><br>",
           "text": "<span style=\"font-style: normal;\">O Centro Comunitário Boa Esperança, assim como a Vila Boa Esperança e a Praça Francisco Daniel Lopes foram projetados a partir de uma pesquisa feita na zona leste da cidade de São Paulo, mais precisamente nos bairros Cidade Líder, Artur Alvim e Itaquera. A pesquisa intitulada Segregação Socioespacial e a Consolidação da Periferia Leste Paulistana (que pode ser conferida na íntegra <a href=\"https://issuu.com/janis_oliveira/docs/segrega____o_socioespacial_e_a_cons\" target=\"_blank\">clicando</a></span><span style=\"font-style: normal;\"><a href=\"https://issuu.com/janis_oliveira/docs/segrega____o_socioespacial_e_a_cons\" target=\"_blank\"> aqui</a></span><span style=\"font-style: normal;\">) buscava não apenas estudar o processo relativo à segregação mas, também propor soluções arquitetônicas que visassem um melhor aproveitamento do solo urbano e a qualidade de vida da população residente da zona leste. O terreno escolhido para intervenção é adjacente à Avenida Líder e tem um potencial muito grande para transformação. Ao analisar a fundo as necessidades locais, concluiu-se que o mais apropriado era conceber algo que se aproximasse diretamente da população, sendo assim escolhido como projeto um centro comunitário, a readequação e novo desenho de uma praça preexistente e a idealização de uma nova vila que seria construída em etapas onde hoje está localizada a ocupação irregular conhecida como “Boa Esperança”. Embora os três projetos tenham sido desenhados, apenas o centro comunitário e a Praça Francisco Daniel Lopes foram detalhados, sendo assim a Vila Boa Esperança ainda passível de alterações. O novo desenho da praça foi refeito para que atraísse as pessoas para dentro do centro comunitário, e este último abrigaria diversos usos atrativos para os residentes locais, tais como: comercial e prestação de serviços, educacional (biblioteca e cursos diversos) e lazer (quadras poliesportivas, salão de jogos e auditório para sessões de cinema e pequenas peças teatrais). Todo programa e a setorização do mesmo, juntamente ao novo desenho urbano de praça e vila possuem o papel de tornar a área mais dinâmica, transformando-a num exemplo a ser seguido em outros pontos da periferia leste paulistana.&nbsp;</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-i",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#404040",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "(c) 2017-2020 por Janis Oliveira &amp; Mobirise"
         },
         {
           "_inherit": "gallery1",
@@ -849,15 +909,8 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "1",
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "filterBgColor": true,
-            "bgColor": "#404040",
-            "showText": true,
-            "filter": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "images": [
               {
                 "tags": "Awesome",
@@ -870,7 +923,7 @@
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -880,7 +933,7 @@
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -890,7 +943,7 @@
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -900,22 +953,27 @@
                 "active": false
               },
               {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/proj-tfg-diagrama-1-small-800x450.jpg",
                 "image": "@PROJECT_PATH@/assets/images/proj-tfg-diagrama-1-small.jpg",
-                "caption": "Diagrama de Distribuição do Programa",
+                "caption": "Diagrama de distribuição do programa",
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/proj-tfg-diagrama-2-small-800x450.jpg",
                 "image": "@PROJECT_PATH@/assets/images/proj-tfg-diagrama-2-small.jpg",
-                "caption": "Diagrama de Usos por Pavimento",
+                "caption": "Diagrama de usos por pavimento",
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -925,7 +983,7 @@
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -935,27 +993,27 @@
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/proj-tfg-1o-pav-small-800x450.jpg",
                 "image": "@PROJECT_PATH@/assets/images/proj-tfg-1o-pav-small.jpg",
-                "caption": "Primeiro Pavimento",
+                "caption": "Primeiro pavimento",
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/proj-tfg-2o-pav-small-800x450.jpg",
                 "image": "@PROJECT_PATH@/assets/images/proj-tfg-2o-pav-small.jpg",
-                "caption": "Segundo Pavimento",
+                "caption": "Segundo pavimento",
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -965,7 +1023,7 @@
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -975,7 +1033,7 @@
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -985,7 +1043,7 @@
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -994,31 +1052,287 @@
                 "caption": "Elevação 3",
                 "active": true
               }
-            ]
+            ],
+            "spacing": 1,
+            "showText": true,
+            "filter": false,
+            "bgColor": "#404040",
+            "filterBgColor": true,
+            "fullWidth": false,
+            "showBullets": true
           },
-          "_anchor": "gallery3-h",
+          "_anchor": "gallery3-o",
           "articleLayout": false,
           "allItem": "All"
+        }
+      ]
+    },
+    "boxvillageboxhouse.html": {
+      "settings": {
+        "title": "BOX VILLAGE & BOX HOUSE",
+        "meta_descr": "Web Page Builder Description"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-size": "12px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-family": "'Yanone Kaffeesatz', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.7rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.758rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#272727"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#383838!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#404040"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f36523!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-j",
+          "_params": {
+            "bgColor": "#404040",
+            "fontSize": "0.7",
+            "fontName": {
+              "name": "Yanone Kaffeesatz",
+              "url": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "css": "'Yanone Kaffeesatz', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "tools",
+              "family": "et-line",
+              "link": "index.html",
+              "size": "20",
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">J A N I S &nbsp; O L I V E I R A &nbsp; | &nbsp; a r q u i t e t a &nbsp; e &nbsp; u r b a n i s t a</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"curriculo.html\" aria-expanded=\"false\">C &nbsp;U &nbsp;R &nbsp;R &nbsp;Í &nbsp;C &nbsp;U &nbsp;L &nbsp;O</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">P &nbsp;O &nbsp;R &nbsp;T &nbsp;F &nbsp;Ó &nbsp;L &nbsp;I &nbsp;O &nbsp; &nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"centroboaesperanca.html\">C E N T R O &nbsp; C O M U N I T Á R I O &nbsp; B O A &nbsp; E S P E R A N Ç A</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"edificioluz.html\">E D I F Í C I O &nbsp; H Í B R I D O &nbsp; L U Z</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"boxvillageboxhouse.html\">B O X &nbsp; V I L L A G E &nbsp; &amp; &nbsp; B O X &nbsp; H O U S E</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "18px",
+              "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-size": "22px",
+              "text-align": "left"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "22px",
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead SPAN": {
+              "color": "#ffffff",
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "header1-k",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/box-village-pb-portfolio-online-r00.jpg",
+            "bgColor": "#f36523",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#404040",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "B &nbsp; O &nbsp; X &nbsp; &nbsp; &nbsp;V &nbsp; I &nbsp; L &nbsp; L &nbsp; A &nbsp; G &nbsp; E &nbsp; &nbsp; &nbsp;&amp; &nbsp; &nbsp; &nbsp; B &nbsp; O &nbsp; X &nbsp; &nbsp; &nbsp;H &nbsp; O &nbsp; U &nbsp; S &nbsp; E",
+          "text": "<span style=\"font-style: normal;\">O projeto da Box Village foi um exercício projetual que consistia em criar uma tipologia autoportante que pudesse ser utilizada, tanto como residência unifamiliar quanto como apartamento de um complexo residencial de maior densidade. As unidades podem abrigar desde um único indivíduo até famílias de, no máximo, 4 pessoas. A planta de cada apartamento duplex dispõe de dois banheiros, cozinha integrada ao living e até dois dormitórios no pavimento superior. Se o proprietário assim desejar, também é possível adaptar a planta para studio, ampliando a área íntima no pavimento superior e mantendo a área social apenas no pavimento inferior. O principal destaque da Box Village/House é a versatilidade da unidade, pois pode ser construída sozinha ou em conjunto, compondo assim um grande complexo habitacional que abrigue dezenas de famílias.&nbsp;</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-i",
+          "_anchor": "footer1-m",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#404040",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
-          "text": "(c) 2017-2018 Janis Oliveira &amp; Mobirise."
+          "text": "(c) 2017-2020 por Janis Oliveira &amp; Mobirise"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/box-house-render-externo-portofolio-online-r00-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/box-house-render-externo-portofolio-online-r00.jpg",
+                "caption": "Perspectiva externa",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/box-house-planta-pav-inferior-portfolio-online-r00-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/box-house-planta-pav-inferior-portfolio-online-r00.jpg",
+                "caption": "Pavimento inferior",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/box-house-planta-pav-superior-portfolio-online-r00-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/box-house-planta-pav-superior-portfolio-online-r00.jpg",
+                "caption": "Pavimento superior",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/box-house-diagrama-estrutural-portfolio-online-r00-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/box-house-diagrama-estrutural-portfolio-online-r00.jpg",
+                "caption": "Diagrama estrutural e materialidade",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/box-house-render-interno-portfolio-online-r00-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/box-house-render-interno-portfolio-online-r00.jpg",
+                "caption": "Perspectiva interna",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jpo-box-village-render-externo-portfolio-online-r00-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jpo-box-village-render-externo-portfolio-online-r00.jpg",
+                "caption": "Perspectiva da vila",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": true,
+            "filter": false,
+            "bgColor": "#404040",
+            "filterBgColor": true,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-n",
+          "articleLayout": false,
+          "allItem": "All"
         }
       ]
     }
